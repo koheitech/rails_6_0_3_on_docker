@@ -19,3 +19,5 @@ docker compose up
 
 ### 3: VSCode Remote Explorer (optional)
 
+https://github.com/user-attachments/assets/7635cccc-9f6e-44c3-92f5-b709d8dbcd68
+
