@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    tty: true
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./myworkdir:/root/myworkdir
+    working_dir: /root/myworkdir
